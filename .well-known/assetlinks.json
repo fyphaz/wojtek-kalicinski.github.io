@@ -2,8 +2,8 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.recipe_app",
+    "package_name": "com.myfujairah",
     "sha256_cert_fingerprints":
-    ["B6:94:02:F5:90:8A:DA:79:F4:B7:E9:12:A0:CA:57:35:FB:88:45:A9:4B:09:84:83:BA:CB:AE:ED:EB:91:C9:1E"]
+    ["FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C"]
   }
 }]
